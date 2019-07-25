@@ -28,4 +28,5 @@ Make a test case to test for case insensitive domain name.
 ## add validation - story
 Add validation test to ensure that an email field has been provided when the create_user func is called.
 
-
+## create super user func - story
+Test creating a new super user.
