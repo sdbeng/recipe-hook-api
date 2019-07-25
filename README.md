@@ -22,6 +22,10 @@ As you will see it says `create user missing one required argument username`
 
 Then you go ahead and create the user model.
 
-# new user email must be normalized(email domain name)
+## new user email must be normalized(email domain name)
 Make a test case to test for case insensitive domain name.
+
+## add validation - story
+Add validation test to ensure that an email field has been provided when the create_user func is called.
+
 
