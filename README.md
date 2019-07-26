@@ -30,3 +30,6 @@ Add validation test to ensure that an email field has been provided when the cre
 
 ## create super user func - story
 Test creating a new super user.
+
+## update django admin to manage custom user model - story
+I'll create a custom interface we can use to login and see which users have been created, create users or make changes to existing users.
